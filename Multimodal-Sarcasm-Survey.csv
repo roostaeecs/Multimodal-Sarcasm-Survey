@@ -1,0 +1,125 @@
+Ref ID,Title,Year,Venue,Taxonomy Category,Reported Performance / Contribution
+,,,,,
+[1],Cross-modal incongruity aligning (MuMu),2024,Info Fusion,Alignment (Contrastive),Methodology (Contrastive Loss)
+,,,,,
+[2],Single-Stage Extensive Semantic Fusion,2024,Array,Alignment,Methodology (Semantic Fusion)
+,,,,,
+[3],Applying cross-modal feature alignment (ALBEF-Sarc),2025,Prog. AI,Alignment (Distillation),Methodology (Momentum Distillation)
+,,,,,
+[4],Leveraging Generative LLMs (Visual Instruction),2024,NAACL,Generative (Instruction Tuning),MMSD(F1)=93.40%; MMSD2.0(F1)=86.34%
+,,,,,
+[5],Can Large Vision-Language Models Understand Sarcasm?,2025,CIKM,Generative (Analysis),Task: Explanation (Qualitative Analysis)
+,,,,,
+[6],Seeing Sarcasm Through Different Eyes,2025,TCSS,Generative (Analysis),Contribution: Perception Gap Analysis
+,,,,,
+[7],A Quantum Probability Driven Framework (QUIET),2024,TAFFC,Quantum Framework,Methodology (Complex-valued Vectors)
+,,,,,
+[8],Quantum neural networks for multimodal...,2025,Alex. Eng. J,Quantum Framework,Methodology (QNN Architecture)
+,,,,,
+[9],Disentangled Multi-grained Distilling (DMMD),2024,LREC,Disentanglement,MMSD(F1)=88.93%
+,,,,,
+[10],Fine-grained Semantic Disentanglement (FSDN),2025,TOMM,Disentanglement,Methodology (Dual-level Disentanglement)
+,,,,,
+[11],Sarcasm driven by sentiment (SAHFN),2024,Info Fusion,Incongruity (Sentiment),MMSD(F1)=95.79%
+,,,,,
+[12],DyCR-Net: Dynamic context-aware routing,2025,KBS,Reasoning (Dynamic),Dataset: Conversational (Context-Aware)
+,,,,,
+[13],Sentiment-clue inconsistency (SCI-GDFN),2025,Expert Syst. Appl.,Bridge (Captioning),Methodology (Image Captioning Bridge)
+,,,,,
+[14],HIAN: Hybrid interactive attention network,2025,Pattern Recognit.,Bridge (Attribute Tags),Methodology (Visual Attribute Tags)
+,,,,,
+[15],Multi-Channel Enhanced Fusion,2024,Neurocomputing,Bridge (OCR),Methodology (OCR for Memes)
+,,,,,
+[16],Model based on Cue Learning,2025,Sci. Rep.,Alignment (Few-Shot),Task: Few-Shot Prompting
+,,,,,
+[17],Deep Modality-Disentangled Prompt Tuning (DMDP),2025,CIKM,Alignment (Few-Shot),Task: Few-Shot (1% Data)
+,,,,,
+[18],DGLF: Dual Graph-based Learning,2024,EMNLP,Reasoning (Topological),MMSD(F1)=86.98%; MMSD2.0(F1)=78.60%
+,,,,,
+[19],GCN-DN: Dynamic Network,2024,CIKM,Reasoning (Topological),MMSD(F1)=89.20%
+,,,,,
+[20],S3 Agent: Unlocking VLLM,2025,TOMM,Generative (Agent),MMSD2.0(F1)=60.3% (Zero-Shot)
+,,,,,
+[21],Multi-granular dynamic interaction network,2025,Multimed. Syst.,Reasoning (Dynamic),Methodology (Dynamic Interaction)
+,,,,,
+[22],Quantum Fuzzy Neural Network (QFNN),2024,Info Fusion,Quantum Framework,Methodology (Fuzzy Logic + Quantum)
+,,,,,
+[23],SarcNet: Multilingual Dataset,2024,LREC-COLING,Dataset (Multilingual),Contribution: SarcNet (Chinese-English)
+,,,,,
+[24],Automatic Algerian Sarcasm Detection,2024,TALIP,Cultural / Low-Resource,Dataset: Algerian Dialect Sarcasm
+,,,,,
+[25],CAMFusion: Context-Aware (Bangla),2025,IEEE Access,Cultural / Video,Dataset: Bangla Video; Acc=~90%
+,,,,,
+[26],Towards Multimodal Sarcasm (MUStARD),2019,ACL,Foundational / Benchmark,Contribution: Video/Audio/Text Dataset
+,,,,,
+[27],Sentiment and Emotion help Sarcasm?,2020,ACL,Foundational / Benchmark,Sentiment and Emotion help Sarcasm
+,,,,,
+[28],DeepMSD: Knowledge-Augmented Graph,2025,TCSVT,Reasoning (Knowledge),MMSD(F1)=90.30%
+,,,,,
+[29],CIMMN: Multi-view Misalignment,2025,Neurocomputing,Incongruity (Mathematical),Methodology (Earth Mover's Distance)
+,,,,,
+[30],MSTI-Plus: Target Identification,2025,WWW,Task: Target ID,Dataset: MSTI-Plus (Target ID)
+,,,,,
+[31],CCG-Net: Sarcasm Explanation,2025,Eng. Appl. Artif. Intell.,Task: Explanation,Task: Multimodal Sarcasm Explanation (MSE)
+,,,,,
+[32],Label-aware graph contrastive learning (LGCL),2024,KBS,Alignment (Contrastive),Methodology (Label-Aware Contrastive)
+,,,,,
+[33],MMGCL: Fusion and Discrimination,2024,TAFFC,Alignment (Contrastive),Methodology (Graph Contrastive Learning)
+,,,,,
+[34],AMIF: Ambiguity-aware Fusion,2025,COLING,Disentanglement,Methodology (Ambiguity Modeling via VAE)
+,,,,,
+[35],ESAM: Sentimental Constraint,2025,TMM,Disentanglement,Methodology (Automatic Outlier Masking)
+,,,,,
+[36],Extracting cross-modal semantic incongruity,2025,Appl. Intell.,Bridge (Captioning),Dataset: MultiBully (Cyberbullying)
+,,,,,
+[37],Cross-modal semantic understanding,2025,J. Supercomput.,Bridge (Attribute Tags),Methodology (Knowledge Enhancement)
+,,,,,
+[38],Detection with Sentiment Word Embedding,2024,Electronics,Alignment (Sentiment),Methodology (Sentiment Embeddings)
+,,,,,
+[39],MLFTI: Weighted Latent Factors,2025,Info Fusion,Alignment (Latent Factor),MMSD(F1)=90.00%
+,,,,,
+[40],TCIP: Topology capture,2025,Info Fusion,Reasoning (Topological),Methodology (Incongruity Perception)
+,,,,,
+[41],DCMG: Incongruous sentiment expressions,2025,Neurocomputing,Reasoning (Topological),Methodology (Cross-modal Mapping)
+,,,,,
+[42],G2SAM: Global Semantic Awareness,2024,AAAI,Reasoning (Topological),MMSD(F1)=88.48%
+,,,,,
+[43],KFGC-Net: Knowledge-Aware GCN,2025,TOMM,Reasoning (Knowledge),MMSD(F1)=88.91%; MMSD2.0(F1)=85.07%
+,,,,,
+[44],EilMoB: Emotion-aware Incongruity,2025,ICMR,Incongruity (Bridge),MMSD(F1)=90.14%; MMSD2.0(F1)=93.52%
+,,,,,
+[45],HQNN: Hybrid Quantum-Classical,2024,TCSS,Quantum Framework,Methodology (Quantum Entanglement)
+,,,,,
+[46],MMSD: Hierarchical Fusion Model,2019,ACL,Foundational/Benchmark,Contribution: Standard Twitter Dataset
+,,,,,
+[47],MMSD2.0: Reliable System,2023,ACL Findings,Foundational/Benchmark,Contribution: Debiased Twitter Dataset
+,,,,,
+[48],RCLMuFN: Relational context learning,2025,KBS,Alignment (Multiplex),MMSD(F1)=91.52%; MMSD2.0(F1)=90.25%
+,,,,,
+[49],KEIPN: Knowledge Enhanced,2025,Cognit. Comput.,Reasoning (Knowledge),MMSD(F1)=86.83%; MMSD2.0(F1)=84.56%
+,,,,,
+[50],MTAN: Multi-Task Joint Training,2024,ICMR,Era 2: Interaction,Methodology (Aggregate Networks)
+,,,,,
+[51],Fact-sentiment incongruity combination,2024,Info Fusion,Incongruity (Sentiment),Methodology (Fact vs. Sentiment)
+,,,,,
+[52],Context-aware multimodal fusion,2024,KBS,Incongruity (Sentiment),Methodology (Inter-modality Inconsistency)
+,,,,,
+[53],Context-Aware Dual Attention,2024,ICASSP,Era 2: Interaction,Methodology (Dual Attention)
+,,,,,
+[54],MV-BART: Multi-view BART,2024,CIKM,Incongruity (Sentiment),Methodology (Multi-view Interactions)
+,,,,,
+[55],Ensemble Net Model,2025,Knowl. Inf. Syst.,Era 1: Efficiency,Methodology (Ensemble Learning)
+,,,,,
+[56],Dual-level adaptive incongruity,2025,Neurocomputing,Incongruity (Adaptive),Methodology (Adaptive Incongruity)
+,,,,,
+[57],Sarcasm with induced sentimental cues (SDO-BCRT),2025,Neurocomputing,Era 1: Optimization,Methodology (Heuristic Search / Callousness)
+,,,,,
+[58],MDSAN: Deep semantic alignment,2024,KBS,Alignment,Methodology (Sinkhorn Distance)
+,,,,,
+[59],SarcasmBench: Evaluating LLMs,2025,TAFFC,Benchmark,Contribution: SarcasmBench Dataset
+,,,,,
+[60],PEDE: Prompted Emotion Distributions,2025,ICASSP,Era 2: Interaction,Methodology (Video Emotion Prompts)
+,,,,,
+[61],DDMGF: Dual dynamic multi-granularity,2025,Neurocomputing,Era 2: Interaction,Methodology (Multi-granularity Fusion)
+,,,,,
+[62],Image-text fusion transformer,2024,Multimed. Tools Appl.,Era 1: Feature Engineering,Methodology (Transformer Fusion)
