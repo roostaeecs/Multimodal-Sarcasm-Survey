@@ -8,7 +8,6 @@ Multimodal Sarcasm Detection (MSD) is transitioning from simple feature fusion t
 
 ## 📂 Repository Contents
 - **`MSD_Survey_Meta_Analysis_2026.csv`**: Structured data including taxonomy classification, backbone architectures, and performance metrics (F1/Accuracy) for all analyzed models.
-- **`references.bib`**: Complete BibTeX file for the 66 seminal works reviewed in the survey.
 
 ## 🛠 Usage
 This is designed to help researchers:
